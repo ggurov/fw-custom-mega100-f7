@@ -17,4 +17,3 @@
 #define FUEL_LOAD_COUNT 24
 #define IGN_LOAD_COUNT 24
 #define IGN_RPM_COUNT 24
-#define EFI_MAX_31855 true
